@@ -188,6 +188,7 @@ lax1
 lb
 legacy
 loadbalancer
+local
 login
 machine
 mail
@@ -235,6 +236,7 @@ poland
 portal
 prd
 preferences
+preprod
 preview
 priv
 private
@@ -246,6 +248,8 @@ profiles
 promo
 promotion
 proxy
+qa
+qt
 raw
 redir
 redirect
@@ -261,6 +265,7 @@ rpc
 s
 s3
 sandbox
+sbx
 scm
 search
 secure
